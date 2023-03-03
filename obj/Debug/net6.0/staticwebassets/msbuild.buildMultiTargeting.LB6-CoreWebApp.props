@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LB6-CoreWebApp.props" />
+</Project>
